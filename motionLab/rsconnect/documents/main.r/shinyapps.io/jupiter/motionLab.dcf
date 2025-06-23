@@ -1,0 +1,13 @@
+name: motionLab
+title: motionLab
+username: jupiter
+account: jupiter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14972271
+bundleId: 10497611
+url: https://quipcat.shinyapps.io/motionLab/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: xprmt.r
